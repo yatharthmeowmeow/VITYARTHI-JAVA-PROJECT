@@ -1,2 +1,1 @@
-# VITYARTHI-JAVA-PROJECT
-Project for clg yay
+# JAVA_CSE2006_PROJ
